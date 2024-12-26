@@ -1,1 +1,1 @@
-# c-_Object_as_argument
+# c++_class & object
